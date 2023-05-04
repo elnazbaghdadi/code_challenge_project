@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "carId": "HJKFSHJK42525fsdfs",
+      "inStock": "true",
+      "hoursePower": "440",
+      "price": 25786860.35,
+      "color": "red"
+    },
+    {
+      "id": "2",
+      "carId": "HJKFSHJK42525fsdfs",
+      "inStock": false,
+      "hoursePower": 140,
+      "price": 40,
+      "color": "black"
+    },
+    {
+      "id": "3",
+      "carId": "HJKFSHJK42525fsdfs",
+      "inStock": false,
+      "hoursePower": 140,
+      "price": 300.25,
+      "color": "black"
+    },
+    {
+      "id": "4",
+      "carId": "HJKFSHJK42525fsdfs",
+      "inStock": true,
+      "hoursePower": 250,
+      "price": 25000.25,
+      "color": "blue"
+    },
+    {
+      "id": "5",
+      "carId": "HJKFSHJK42525fsdfs",
+      "inStock": true,
+      "hoursePower": 250,
+      "price": 25000.25,
+      "color": "Blue"
+    }
+  ],
+  "productColorList": [
+    "red",
+    "blue",
+    "black"
+  ]
+}
