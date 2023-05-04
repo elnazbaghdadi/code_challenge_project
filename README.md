@@ -47,8 +47,8 @@ Performance: Vue.js is known for its excellent performance, especially when comp
 - Clone the project to your local computer:
 
 ```
-git clone git@github.com:kamp-us/monorepo.git
-cd monorepo
+git clone https://github.com/elnazbaghdadi/code_challenge_project.git
+cd code_challenge_project
 ```
 
 ## Running the projects
