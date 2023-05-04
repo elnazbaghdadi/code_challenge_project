@@ -80,10 +80,10 @@ just change base Url to your own local host Url which json server is running on.
 
 ## used endpoint
 
-get => 'http://localhost:3000/products'
-get => 'http://localhost:3000/productColorList'
-get => 'http://localhost:3000/products/${id}'
-put =>  'http://localhost:3000/products/${id}' , productModel
+- get => 'http://localhost:3000/products'
+- get => 'http://localhost:3000/productColorList'
+- get => 'http://localhost:3000/products/${id}'
+- put => 'http://localhost:3000/products/${id}' , productModel
 
 ## product model
 
