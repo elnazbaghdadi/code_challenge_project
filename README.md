@@ -66,8 +66,9 @@ Just upgrade your node to the latest, remove node_modules, and run npm install a
 Install dependencies and run the project.
 
 ```
-json-server --watch data/db.json
 npm install
+npm install -g json-server
+json-server --watch data/db.json
 npm run dev
 ```
 
